@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle baccredirect",
+        "command": "baccredirect:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "baccredirect",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "baccredirect:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

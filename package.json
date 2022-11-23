@@ -1,0 +1,18 @@
+{
+  "name": "baccredirect",
+  "main": "./lib/baccredirect",
+  "version": "0.0.0",
+  "description": "บาคาร่าเว็บตรง พนันง่าย ชำระเงินจริง ไม่เป็นอันตราย มั่นคง เล่นได้ 24 ชม",
+  "keywords": [#บาคาร่าเว็บตรง
+  ],
+  "activationCommands": {
+    "atom-workspace": "baccredirect:toggle"
+  },
+  "repository": "https://github.com/RCTJ/baccredirect",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
